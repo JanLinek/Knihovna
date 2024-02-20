@@ -1,0 +1,41 @@
+body {
+    margin: 30px;
+}
+.tlacitko1 {
+    background: #D62988;
+    color: white;
+}
+.tlacitko1:hover {
+    background: #7e0240;
+    color: white;
+}
+.tlacitko2 {
+    background: #635eea;
+    color: white;
+}
+.tlacitko2:hover {
+    background: #1d3a67;
+    color: white;
+}
+.tlacitko3 {
+    background: #3da172;
+    color: white;
+}
+.tlacitko3:hover {
+    background: #28502a;
+    color: white;
+}
+.tlacitko4 {
+    background: #7d5050;
+    color: white;
+}
+.tlacitko4:hover {
+    background: #a06e6e;
+    color: white;
+}
+
+
+
+
+
+
